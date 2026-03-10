@@ -4,7 +4,7 @@ O **FetchManager** é uma ferramenta em Bash Script desenhada para simplificar a
 
 ## 📋 Funcionalidades
 - Automatiza a criação do diretório de configuração.
-- Gera um ficheiro de base otimizado para artes ASCII.
+- Gera um arquivo de base otimizado para artes ASCII.
 - Interface interativa e suporte a comandos rápidos.
 
 ## 🚀 Como Utilizar
