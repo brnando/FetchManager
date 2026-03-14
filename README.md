@@ -15,9 +15,9 @@ Caso ainda não tenha o Neofetch instalado, execute:
 sudo apt update && sudo apt install neofetch -y
 ```
 ### 2. Clonar e Preparar o Script
-Clone o repositório (Substitua pelo seu link se necessário)
+Clone o repositório
 ```bash
-git clone [https://github.com/SEU-USUARIO/FetchManager.git](https://github.com/SEU-USUARIO/FetchManager.git)
+git clone [https://github.com/brnando/FetchManager.git](https://github.com/brnando/FetchManager.git)
 cd FetchManager
 ```
 
